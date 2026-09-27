@@ -93,6 +93,27 @@ This project doesn't currently include an automated test suite, but it can be ma
 
 > **Note:** For a more robust setup, consider adding automated tests with `pytest`, covering each function (`add_book`, `manage_inventory`, `show_catalog`) independently by refactoring user input out of the core logic.
 
+
+## Screenshots
+
+Some of the screenshots of the project are shown below for the clarity of the working of the program 
+
+1.  The Main Menu/ The table of contents
+    -  <img width="730" height="321" alt="Screenshot 2026-09-25 at 13 53 18" src="https://github.com/user-attachments/assets/7057aa63-dec2-4e5f-aafd-8bb45022a750" />
+
+2. Adding A New Book To The Table
+   - <img width="665" height="248" alt="Screenshot 2026-09-25 at 13 55 04" src="https://github.com/user-attachments/assets/16b77180-3753-47ea-9a64-b5fbd9feab09" />
+
+3. Updating The Table/ Managing The Table
+   - <img width="739" height="445" alt="Screenshot 2026-09-25 at 13 55 57" src="https://github.com/user-attachments/assets/a3cbf7b0-8289-4e20-844a-a5dfc5cad575" />
+
+4. Exitting The Program
+   - <img width="739" height="335" alt="Screenshot 2026-09-25 at 13 57 11" src="https://github.com/user-attachments/assets/ef6af97b-5212-423c-b859-352b1eeec3be" />
+
+   
+
+
+
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
