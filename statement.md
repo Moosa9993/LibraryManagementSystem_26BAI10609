@@ -1,4 +1,4 @@
-# Project Statement — Community Library Catalog
+# Project Statement — Library Management System
 
 ## Problem Statement
 
@@ -6,7 +6,7 @@ Small libraries, classrooms, and personal book collections often rely on manual 
 
 ## Scope of the Project
 
-The Community Library Catalog is a command-line application that allows a single user to manage a book inventory during a single running session. Its scope includes:
+The Library Management System is a command-line application that allows a single user to manage a book inventory during a single running session. Its scope includes:
 
 **In scope:**
 - Viewing a formatted catalog of all books
