@@ -1,10 +1,9 @@
-# 📖 Community Library Catalog
-
+# 📖 Library Management System
 A simple command-line application for managing a small library's book catalog. Built as a beginner-friendly Python project to practice core programming concepts like data structures, functions, loops, and user input handling.
 
 ## Project Overview
 
-Community Library Catalog is a terminal-based inventory system that lets a user view, search, add, and manage the status of books in a library's collection. All data is stored in memory while the program runs, using a simple list of dictionaries to represent the book catalog — no external database required.
+Library Management System is a terminal-based inventory system that lets a user view, search, add, and manage the status of books in a library's collection. All data is stored in memory while the program runs, using a simple list of dictionaries to represent the book catalog — no external database required.
 
 This project is a great starting point for understanding how small CRUD-style (Create, Read, Update, Delete) applications work before moving on to file storage, databases, or web interfaces.
 
